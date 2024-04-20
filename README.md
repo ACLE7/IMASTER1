@@ -21,3 +21,7 @@ git branch -M main
 git remote add origin
 https://github.com/luisguillermomolero/Repositorio_Prueba_GIT_VSC.git
 git push -u origin main
+<div class="col-12">
+                    <a href="index.html" class="btn btn-secondary">Regresar</a>
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                    
