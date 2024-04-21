@@ -51,7 +51,11 @@ git push -u origin main
                     <label for="clave" class="form-label">Clave</label>
                     <input type="text" class="form-control" id="clave" name="clave" required autofocus>
                 </div>
+
+                
 ---
+
+-
                 <div class="col-md-8">
                     <label for="nombre" class="form-label">Nombre</label>
                     <input type="text" class="form-control" id="nombre" name="nombre" required>
